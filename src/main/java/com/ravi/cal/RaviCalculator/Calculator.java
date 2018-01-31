@@ -2,7 +2,7 @@ package com.ravi.cal.RaviCalculator;
 
 import java.util.Scanner;
 
-public class Calculator {
+//public class Calculator {
 	
 	private long first;
 	private long second;
