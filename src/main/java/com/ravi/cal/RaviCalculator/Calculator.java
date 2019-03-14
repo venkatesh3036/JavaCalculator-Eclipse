@@ -54,7 +54,7 @@ public class Calculator  {
 		
 		System.out.println("The sum of two numbers is: "+cc.addFucn(first, second));
 		System.out.println("The difference of two numbers is: "+cc.subFucn(first, second));
-		System.out.println("The multiples of two numbers is: "+cc.mulFucn(first, second));
+		System.out.println("The product of two numbers is: "+cc.mulFucn(first, second));
 		
 	}
 	 
