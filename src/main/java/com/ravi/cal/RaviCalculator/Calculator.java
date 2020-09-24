@@ -56,6 +56,7 @@ public class Calculator  {
 		System.out.println("The difference of two numbers is: "+cc.subFucn(first, second));
 		System.out.println("The product of two numbers is: "+cc.mulFucn(first, second));
 		
+		
 	}
 	 
 
