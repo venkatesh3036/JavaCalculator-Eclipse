@@ -44,11 +44,11 @@ public class Calculator  {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		//System.out.println("Enter the first numeric value ");
+		System.out.println("Enter the first numeric value ");
 		long first = sc.nextLong();
 		cc.setFirst(first);
 		
-		//System.out.println("Enter the second numeric value ");
+		System.out.println("Enter the second numeric value ");
 		long second = sc.nextLong();
 		cc.setSecond(second);
 		
